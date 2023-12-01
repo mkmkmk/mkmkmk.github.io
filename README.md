@@ -12,7 +12,7 @@
 **[Try here](https://mkmkmk.github.io/licznikDDE/)**
 
 
-# this page repo
+# Repo
 **[github.com](https://github.com/mkmkmk/mkmkmk.github.io)**
 
 
