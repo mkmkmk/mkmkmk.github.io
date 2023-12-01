@@ -8,8 +8,13 @@
 # Mahjong by M.D. + M.K. mod
 **[Try here](https://mkmkmk.github.io/mahjong-md-mk-mod/mj.html)**
 
+
 # Licznik DDE (licznik do mojej emki)
 **[Try here](https://mkmkmk.github.io/licznikDDE/)**
+
+
+# Black page
+**[Try here](https://mkmkmk.github.io/BlackPage/index.html)**
 
 
 # Repo
