@@ -12,8 +12,6 @@
 **[Try here](https://mkmkmk.github.io/licznikDDE/)**
 
 
-# this page repo
-https://github.com/mkmkmk/mkmkmk.github.io
-**[github.com/mkmkmk/mkmkmk.github.io](https://github.com/mkmkmk/mkmkmk.github.io)**
+# [this page repo](https://github.com/mkmkmk/mkmkmk.github.io)
 
 
