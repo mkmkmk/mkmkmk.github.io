@@ -13,7 +13,6 @@
 
 
 # this page repo
-https://github.com/mkmkmk/mkmkmk.github.io
 **[github.com](https://github.com/mkmkmk/mkmkmk.github.io)**
 
 
