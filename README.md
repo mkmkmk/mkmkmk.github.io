@@ -4,6 +4,12 @@
 **[Code](https://github.com/mkmkmk/mkmkmk.github.io)**
 <br>
 
+# Dynamics Simulator
+**[Try here](https://mkmkmk.github.io/bez_tarcia_js/index.html)**
+<br>
+**[Code](https://github.com/mkmkmk/bez_tarcia_js)**
+<br>
+
 # Gravity Simulator
 **[Try here](https://mkmkmk.github.io/GravitySim/index.html)**
 <br>
