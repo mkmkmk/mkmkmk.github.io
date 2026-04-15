@@ -32,8 +32,6 @@
 <br>
 <br>
 # Klondike Solitaire
-<br>
-<br>
 **[Try here](https://mkmkmk.github.io/sol-js)**
 <br>
 **[Code](https://github.com/mkmkmk/sol-js)**
